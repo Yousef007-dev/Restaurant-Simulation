@@ -1,4 +1,7 @@
 # Restaurant-Simulation
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 🍽️ Restaurant Management System
 A comprehensive Java-based application designed to streamline restaurant operations. This system facilitates efficient management of orders, menus, and customer data, providing an intuitive interface for restaurant staff.
 
