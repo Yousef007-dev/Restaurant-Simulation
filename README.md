@@ -29,7 +29,7 @@ Include screenshots of your application's interface here to provide visual conte
 
 🧑‍💻 Getting Started
 Clone the Repository:
-git clone https://github.com/Yousef007-dev/restaurant-management-system.git
+git clone https://github.com/Yousef007-dev/Restaurant-Simulation.git
 
 Navigate to the Project Directory:
 cd restaurant-management-system
